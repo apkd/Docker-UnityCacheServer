@@ -1,4 +1,4 @@
-- Now updated to the latest [Unity-Technologies/unity-cache-server](https://github.com/Unity-Technologies/unity-cache-server) version.
+- Now updated to the VERY latest [Unity-Technologies/unity-cache-server](https://github.com/Unity-Technologies/unity-cache-server) version.
 - Based on the lightweight [`node:8-alpine`](https://hub.docker.com/_/node/) image.
 
 ### Launching the server
